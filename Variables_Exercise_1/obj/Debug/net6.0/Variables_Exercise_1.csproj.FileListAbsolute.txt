@@ -1,0 +1,15 @@
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\bin\Debug\net6.0\Variables_Exercise_1.exe
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\bin\Debug\net6.0\Variables_Exercise_1.deps.json
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\bin\Debug\net6.0\Variables_Exercise_1.runtimeconfig.json
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\bin\Debug\net6.0\Variables_Exercise_1.dll
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\bin\Debug\net6.0\Variables_Exercise_1.pdb
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\Variables_Exercise_1.csproj.AssemblyReference.cache
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\Variables_Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\Variables_Exercise_1.AssemblyInfoInputs.cache
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\Variables_Exercise_1.AssemblyInfo.cs
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\Variables_Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\Variables_Exercise_1.dll
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\refint\Variables_Exercise_1.dll
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\Variables_Exercise_1.pdb
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\Variables_Exercise_1.genruntimeconfig.cache
+C:\Users\Brian Shaw\source\repos\Variables_Exercise_1\Variables_Exercise_1\obj\Debug\net6.0\ref\Variables_Exercise_1.dll
